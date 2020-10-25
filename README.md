@@ -1,6 +1,5 @@
 INFORMATION
-there's cases in the news of people being re-infected with covid but for the simplicity
-you can only get covid once and lets pretend that u make antibodies and become superman!
+there's cases in the news of people being re-infected with covid but for the simplicity you can only get covid once.
 
 SERIOUS PRODUCTION ISSUES
 - /accounts/account can be called by anyone
