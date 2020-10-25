@@ -2,8 +2,8 @@ INFORMATION
 there's cases in the news of people being re-infected with covid but for the simplicity you can only get covid once.
 
 SERIOUS PRODUCTION ISSUES
-- /accounts/account can be called by anyone
-- /accounts/get returns password hashes and salts.
+- POST /accounts/account :can be called by anyone
+- GET /accounts/ returns :password hashes and salts.
 
 HOW TO USE:
   - make an account:
